@@ -19,9 +19,9 @@ return [
              // Monolog settings
              'db' => [
                 'host' => 'localhost',
-                'dbname' => 'beyondgodlike',
-                'user' => 'beyondgodlike',
-                'pass' => 'D4pw9%4uaZ',
+                'dbname' => 'customer',
+                'user' => 'root',
+                'pass' => 'password',
             ],
     ],
 ];
